@@ -1,4 +1,4 @@
-# pa_viz_pf3400
+# pa_rviz_pf3400
 A package for visualizing a PF3400 in real time using RViz. Requires TCS to be running on the PF3400.
 
 ### Install
